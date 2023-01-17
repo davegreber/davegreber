@@ -8,10 +8,10 @@
       <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://vimeo.com/greber">
-      <img src="https://img.shields.io/badge/vimeo-blue?style=for-the-badge&logo=vimeo&logoColor=white" alt="vimeo Badge"/>
+      <img src="https://img.shields.io/badge/vimeo-black?style=for-the-badge&logo=vimeo&logoColor=white" alt="vimeo Badge"/>
     </a>
     <a href="https://twitter.com/davegreber">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
       <div>
         <img src="https://komarev.com/ghpvc/?username=davegreber&style=flat-square&color=blue" alt=""/>
