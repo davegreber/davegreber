@@ -1,6 +1,10 @@
-<div id="header" align="center">
-  ### 👋 Hello 👋
+### 👋 Hello 👋
+
 I am an <a href="https://www.thesculpted.com">artist</a>, educator, consultant, and aspiring programmer. I am interested in web3, ML, experimental visuals, divination, etc. I'm always looking to collaborate and learn more programming skills. I've worked extensively in the contemporary art world, and I'm currently transitioning toward a web-based career.
+
+<div id="header" align="center">
+  
+
   <kbd><img src="https://images.squarespace-cdn.com/content/v1/63598cdf7198ed5ea501e271/27709bd7-2ada-4a87-a252-f764f4ebe487/DG_logo_21_400_low_fps.gif" width="200" /></kbd>
   <div id="badges">
     <a href="https://www.linkedin.com/in/dave-greber/">
