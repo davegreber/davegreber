@@ -1,6 +1,6 @@
 ### 👋 Hello 👋
 
-I am an <a href="https://www.thesculpted.com">artist</a>, educator, consultant, and aspiring programmer. I am interested in web3, ML, experimental visuals, divination, etc. I'm always looking to collaborate and learn more programming skills. I've worked extensively in the contemporary art world, and I'm currently transitioning toward a web-based career.
+I am an <a href="https://www.thesculpted.com">artist</a>, educator, consultant, and aspiring programmer. I am interested in web3, ML, experimental visuals, divination, etc. I'm always looking to collaborate and learn more programming skills. I've worked extensively in the IRL contemporary art world, and I'm currently transitioning toward a web-based career.
 
 <div id="header" align="center">
   
